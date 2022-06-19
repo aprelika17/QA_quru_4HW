@@ -71,7 +71,7 @@ public class BaseJava {
         System.out.println("Пример оператора == " + result6);
         System.out.println("Пример оператора && " + result7);
     }
-    
+
     public static void OverFullExamples () {
         int over1 = 2147483647;
         System.out.println("Пример переполнения максимума типа int: " + (over1+1000));
