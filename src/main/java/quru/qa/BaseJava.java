@@ -23,7 +23,7 @@ public class BaseJava {
         float exFloat = 2.7F;
         double exDouble = 7.5;
 
-        String name = "Пример"; // Буквы
+        String name = "Пример string"; // Буквы
     }
 
     public static void MathOperators() {
